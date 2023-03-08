@@ -1,8 +1,10 @@
+import HomePage from './components/HomePage'
 
 function App() {
   return (
-    <>HI</>
+    <HomePage></HomePage>
   )
+
 }
 
 export default App

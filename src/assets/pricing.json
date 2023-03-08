@@ -1,0 +1,66 @@
+[
+  {
+    "product": "Acknowledgments", 
+    "pricing": [
+      {"price": 6, "description": "for first signature"},
+      {"price": 1, "description": "for each additional signature on the same certificate"} 
+    ]
+  },
+  {
+    "product": "Administering an oath or affirmation", 
+    "pricing": [
+      {"price": 6, "description": ""}
+    ]
+  },
+  {
+    "product": "Certificates & Seals to a Protest", 
+    "pricing": [
+      {"price": 4, "description": ""}
+    ]
+  },
+  {
+    "product": "Certified Copies of Notarial Records ", 
+    "pricing": [
+      {"price": 0.5, "description": "/(1) notary record"},
+      {"price": 0.5, "description": "/ea page in addition "},
+      {"price": 6, "description": "to $6 notary fee for the certificate"}
+    ]
+  },
+  {
+    "product": "Certifying a photocop", 
+    "pricing": [
+      {"price": 6, "description": ""}
+    ]
+  },
+  {
+    "product": "Extra for E-DOCS", 
+    "pricing": [
+      {"price": 25, "description": ""}
+    ]
+  },
+  {
+    "product": "Jurats", 
+    "pricing": [
+      {"price": 6, "description": ""}
+    ]
+  },
+  {
+    "product": "Loan Application (In Person / Remotely) ", 
+    "pricing": [
+      {"price": 75, "description": ""}
+    ]
+  },
+  {
+    "product": "", 
+    "pricing": [
+      {"price": 0, "description": ""}
+    ]
+  },
+  {
+    "product": "Loan Signing  (In Person / Remotely)", 
+    "pricing": [
+      {"price": 180, "description": ""}
+    ]
+  }
+
+]
